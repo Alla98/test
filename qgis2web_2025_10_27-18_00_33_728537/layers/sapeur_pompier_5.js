@@ -1,1 +1,0 @@
-var json_sapeur_pompier_5 = {"type":"FeatureCollection","name":"sapeur_pompier_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":1.0,"quartier_i":"3093762"},"geometry":{"type":"Point","coordinates":[11.549938190710311,3.868262186003678]}}]}
